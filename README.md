@@ -55,6 +55,6 @@ sudo rmmod bat_to_cat
 - The module is a demonstration project and is not intended for shipping in a real system.
 
 ## Examples
-<img width="557" height="849" alt="image" src="https://github.com/user-attachments/assets/71eb2a00-8d9f-42ba-a871-dcbdfa35f149" />
+<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/6c89235c-4bdd-4808-b89f-910f97347400" />
 <img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/3667f529-143d-461f-944d-10b5446774a7" />
 
